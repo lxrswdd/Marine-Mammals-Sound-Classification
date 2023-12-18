@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
 import mytools
-from YRQ_fsmn import CVFSMNv2
+from FSMN import CVFSMNv2
 import torch.nn.functional as F
 from collections import Counter
 import x_vector
